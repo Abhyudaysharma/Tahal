@@ -1,0 +1,10 @@
+{
+  "name": "Tahal",
+  "short_name": "Tahal",
+  "description": "A walk guide that talks, so your phone can stay in your pocket.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#14213d",
+  "theme_color": "#14213d",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

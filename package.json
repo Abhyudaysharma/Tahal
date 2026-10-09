@@ -1,0 +1,9 @@
+{
+  "name": "tahal",
+  "version": "1.0.0",
+  "description": "A voice-led walk guide that runs on an open Gemma model on your own machine, so your phone can stay in your pocket.",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "test": "node test/run.js" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
